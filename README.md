@@ -4,7 +4,7 @@ This project demonstrates a simple image hover effect using HTML and CSS. When y
 
 ## Demo
 
-![Lab 1](https://github.com/PrahladMV/Crens-Official-Images/blob/main/Lab1.png?raw=true) ![Lab 2](https://github.com/PrahladMV/Crens-Official-Images/blob/main/Lab2.png?raw=true) ![Lab 3](https://github.com/PrahladMV/Crens-Official-Images/blob/main/Lab3.png?raw=true) ![Lab 4](https://github.com/PrahladMV/Crens-Official-Images/blob/main/Lab4.png?raw=true)
+![Lab 1](https://github.com/PrahladMV/Crens-Official-Images/blob/main/Research1.png?raw=true) ![Lab 2](https://github.com/PrahladMV/Crens-Official-Images/blob/main/Research2.png?raw=true) ![Lab 3](https://github.com/PrahladMV/Crens-Official-Images/blob/main/Research3.png?raw=true) ![Lab 4](https://github.com/PrahladMV/Crens-Official-Images/blob/main/Research4.png?raw=true)
 
 ## Features
 
